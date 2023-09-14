@@ -1,0 +1,675 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1506": [
+      532,
+      2529,
+      3085,
+      3089,
+      6103,
+      7918,
+      8610,
+      1506
+    ],
+    "2529": [
+      532,
+      1506,
+      3089,
+      6103,
+      8610,
+      2529
+    ],
+    "4972": [
+      4972
+    ],
+    "17896441": [
+      532,
+      1506,
+      7918
+    ],
+    "59362658": [
+      2267
+    ],
+    "main": [
+      532,
+      1303,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      1303
+    ],
+    "01a85c17": [
+      532,
+      4013
+    ],
+    "01d86874": [
+      631
+    ],
+    "04678395": [
+      7725
+    ],
+    "0e384e19": [
+      9671
+    ],
+    "14eb3368": [
+      532,
+      9817
+    ],
+    "165b5df8": [
+      2006
+    ],
+    "18c41134": [
+      2859
+    ],
+    "1be78505": [
+      532,
+      4972
+    ],
+    "1df93b7f": [
+      532,
+      3237
+    ],
+    "1e4232ab": [
+      8818
+    ],
+    "1f391b9e": [
+      532,
+      1506,
+      3085
+    ],
+    "2508d432": [
+      7566
+    ],
+    "2bdaf00e": [
+      9111
+    ],
+    "327f2720": [
+      1389
+    ],
+    "393be207": [
+      7414
+    ],
+    "3b453dee": [
+      2248
+    ],
+    "3f87a217": [
+      9161
+    ],
+    "44b377cd": [
+      9719
+    ],
+    "525c357f": [
+      3879
+    ],
+    "533a09ca": [
+      4607
+    ],
+    "59c669c3": [
+      766
+    ],
+    "5a6d9e71": [
+      6076
+    ],
+    "5c868d36": [
+      5589
+    ],
+    "62e9a2da": [
+      6300
+    ],
+    "6875c492": [
+      532,
+      1506,
+      2529,
+      8610
+    ],
+    "73664a40": [
+      3514
+    ],
+    "7661071f": [
+      9642
+    ],
+    "814f3328": [
+      2535
+    ],
+    "822bd8ab": [
+      6504
+    ],
+    "8717b14a": [
+      948
+    ],
+    "925b3f96": [
+      9003
+    ],
+    "935f2afb": [
+      53
+    ],
+    "9e4087bc": [
+      3608
+    ],
+    "a6aa9e1f": [
+      532,
+      1506,
+      2529,
+      3089
+    ],
+    "a84b53b3": [
+      6959
+    ],
+    "c199d279": [
+      3556
+    ],
+    "ccc49370": [
+      532,
+      1506,
+      2529,
+      6103
+    ],
+    "d9f32620": [
+      1914
+    ],
+    "dff1c289": [
+      3792
+    ],
+    "e273c56f": [
+      2362
+    ],
+    "e44a2883": [
+      6755
+    ],
+    "e5ca368f": [
+      4190
+    ],
+    "f4f34a3a": [
+      8636
+    ],
+    "f55d3e7a": [
+      4193
+    ],
+    "styles": [
+      179,
+      1303,
+      1506,
+      2529,
+      3085,
+      3089,
+      3237,
+      4013,
+      6103,
+      7918,
+      8610,
+      9514,
+      9817,
+      532
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.e4c6a38e.js",
+          "hash": "1d9fd0808d43504f",
+          "publicPath": "/aula-docusauros/assets/js/935f2afb.e4c6a38e.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.c88bfbd4.js",
+          "hash": "108dacd8b7abd2b0",
+          "publicPath": "/aula-docusauros/assets/js/main.c88bfbd4.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.047cc1fa.css",
+          "hash": "78e5180420edc0f3",
+          "publicPath": "/aula-docusauros/assets/css/styles.047cc1fa.css"
+        }
+      ]
+    },
+    "631": {
+      "js": [
+        {
+          "file": "assets/js/01d86874.d467acde.js",
+          "hash": "8031761d6550d760",
+          "publicPath": "/aula-docusauros/assets/js/01d86874.d467acde.js"
+        }
+      ]
+    },
+    "766": {
+      "js": [
+        {
+          "file": "assets/js/59c669c3.3e91a71d.js",
+          "hash": "9fc4d9ad36397316",
+          "publicPath": "/aula-docusauros/assets/js/59c669c3.3e91a71d.js"
+        }
+      ]
+    },
+    "948": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.0c4cb065.js",
+          "hash": "ccc1b87adccd7b9f",
+          "publicPath": "/aula-docusauros/assets/js/8717b14a.0c4cb065.js"
+        }
+      ]
+    },
+    "1303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.353ed5a2.js",
+          "hash": "b6400ae4ae999e1d",
+          "publicPath": "/aula-docusauros/assets/js/runtime~main.353ed5a2.js"
+        }
+      ]
+    },
+    "1389": {
+      "js": [
+        {
+          "file": "assets/js/327f2720.bb0290bf.js",
+          "hash": "59ab7c24e0c054ff",
+          "publicPath": "/aula-docusauros/assets/js/327f2720.bb0290bf.js"
+        }
+      ]
+    },
+    "1506": {
+      "js": [
+        {
+          "file": "assets/js/1506.3f2df23e.js",
+          "hash": "d9fddf63c7d3046a",
+          "publicPath": "/aula-docusauros/assets/js/1506.3f2df23e.js"
+        }
+      ]
+    },
+    "1914": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.54cf5bba.js",
+          "hash": "a32023a0ad6d1b52",
+          "publicPath": "/aula-docusauros/assets/js/d9f32620.54cf5bba.js"
+        }
+      ]
+    },
+    "2006": {
+      "js": [
+        {
+          "file": "assets/js/165b5df8.8aea64ca.js",
+          "hash": "85de28f00f4efdbd",
+          "publicPath": "/aula-docusauros/assets/js/165b5df8.8aea64ca.js"
+        }
+      ]
+    },
+    "2248": {
+      "js": [
+        {
+          "file": "assets/js/3b453dee.3ab4c894.js",
+          "hash": "2201f30f70e42092",
+          "publicPath": "/aula-docusauros/assets/js/3b453dee.3ab4c894.js"
+        }
+      ]
+    },
+    "2267": {
+      "js": [
+        {
+          "file": "assets/js/59362658.16a28338.js",
+          "hash": "cb5e7d8ce191bb19",
+          "publicPath": "/aula-docusauros/assets/js/59362658.16a28338.js"
+        }
+      ]
+    },
+    "2362": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.6f0d109b.js",
+          "hash": "517301bb95e03dfa",
+          "publicPath": "/aula-docusauros/assets/js/e273c56f.6f0d109b.js"
+        }
+      ]
+    },
+    "2529": {
+      "js": [
+        {
+          "file": "assets/js/2529.9e7da43a.js",
+          "hash": "9f5350e62f6c18b1",
+          "publicPath": "/aula-docusauros/assets/js/2529.9e7da43a.js"
+        }
+      ]
+    },
+    "2535": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.d8aa018b.js",
+          "hash": "57a34189c85912a5",
+          "publicPath": "/aula-docusauros/assets/js/814f3328.d8aa018b.js"
+        }
+      ]
+    },
+    "2859": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.a9a03ced.js",
+          "hash": "d0d0ff671a8f8da7",
+          "publicPath": "/aula-docusauros/assets/js/18c41134.a9a03ced.js"
+        }
+      ]
+    },
+    "3085": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.b4b136c6.js",
+          "hash": "a8979f5be927d835",
+          "publicPath": "/aula-docusauros/assets/js/1f391b9e.b4b136c6.js"
+        }
+      ]
+    },
+    "3089": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.97e1ea28.js",
+          "hash": "a0b40d336f0c301b",
+          "publicPath": "/aula-docusauros/assets/js/a6aa9e1f.97e1ea28.js"
+        }
+      ]
+    },
+    "3237": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.d92d7a27.js",
+          "hash": "797b903962892079",
+          "publicPath": "/aula-docusauros/assets/js/1df93b7f.d92d7a27.js"
+        }
+      ]
+    },
+    "3514": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.cc8bcf09.js",
+          "hash": "d8c3f3ac3d5cd722",
+          "publicPath": "/aula-docusauros/assets/js/73664a40.cc8bcf09.js"
+        }
+      ]
+    },
+    "3556": {
+      "js": [
+        {
+          "file": "assets/js/c199d279.0bb9c41c.js",
+          "hash": "3c8331e71d7b014d",
+          "publicPath": "/aula-docusauros/assets/js/c199d279.0bb9c41c.js"
+        }
+      ]
+    },
+    "3608": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.c9d34433.js",
+          "hash": "5ac00aba32c96aa8",
+          "publicPath": "/aula-docusauros/assets/js/9e4087bc.c9d34433.js"
+        }
+      ]
+    },
+    "3792": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.ef8450c6.js",
+          "hash": "7307085b750a09c2",
+          "publicPath": "/aula-docusauros/assets/js/dff1c289.ef8450c6.js"
+        }
+      ]
+    },
+    "3879": {
+      "js": [
+        {
+          "file": "assets/js/525c357f.42031432.js",
+          "hash": "28ab8c4064b576c9",
+          "publicPath": "/aula-docusauros/assets/js/525c357f.42031432.js"
+        }
+      ]
+    },
+    "4013": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.315f9d68.js",
+          "hash": "f75629c8124feaaf",
+          "publicPath": "/aula-docusauros/assets/js/01a85c17.315f9d68.js"
+        }
+      ]
+    },
+    "4190": {
+      "js": [
+        {
+          "file": "assets/js/e5ca368f.2c4a3539.js",
+          "hash": "9764979a425d6992",
+          "publicPath": "/aula-docusauros/assets/js/e5ca368f.2c4a3539.js"
+        }
+      ]
+    },
+    "4193": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.c8b54100.js",
+          "hash": "d57f8d6a40eaf221",
+          "publicPath": "/aula-docusauros/assets/js/f55d3e7a.c8b54100.js"
+        }
+      ]
+    },
+    "4607": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.0bc0a40f.js",
+          "hash": "c1927f8adb07c6fc",
+          "publicPath": "/aula-docusauros/assets/js/533a09ca.0bc0a40f.js"
+        }
+      ]
+    },
+    "4972": {
+      "js": [
+        {
+          "file": "assets/js/4972.cea2bc1e.js",
+          "hash": "a1230be932df2aee",
+          "publicPath": "/aula-docusauros/assets/js/4972.cea2bc1e.js"
+        },
+        {
+          "file": "assets/js/1be78505.7aee0415.js",
+          "hash": "7451de89bd99ab96",
+          "publicPath": "/aula-docusauros/assets/js/1be78505.7aee0415.js"
+        }
+      ]
+    },
+    "5589": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.f530d47a.js",
+          "hash": "68d6bebd07bafc77",
+          "publicPath": "/aula-docusauros/assets/js/5c868d36.f530d47a.js"
+        }
+      ]
+    },
+    "6076": {
+      "js": [
+        {
+          "file": "assets/js/5a6d9e71.075942c2.js",
+          "hash": "249d72d2b2ead4b8",
+          "publicPath": "/aula-docusauros/assets/js/5a6d9e71.075942c2.js"
+        }
+      ]
+    },
+    "6103": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.0616f71d.js",
+          "hash": "7e5c0114886f0a21",
+          "publicPath": "/aula-docusauros/assets/js/ccc49370.0616f71d.js"
+        }
+      ]
+    },
+    "6300": {
+      "js": [
+        {
+          "file": "assets/js/62e9a2da.7451d569.js",
+          "hash": "a5583c6bf5072c48",
+          "publicPath": "/aula-docusauros/assets/js/62e9a2da.7451d569.js"
+        }
+      ]
+    },
+    "6504": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.d4a80409.js",
+          "hash": "72b5fe257587d5d0",
+          "publicPath": "/aula-docusauros/assets/js/822bd8ab.d4a80409.js"
+        }
+      ]
+    },
+    "6755": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.15afbf96.js",
+          "hash": "b9e0a09c95682aac",
+          "publicPath": "/aula-docusauros/assets/js/e44a2883.15afbf96.js"
+        }
+      ]
+    },
+    "6959": {
+      "js": [
+        {
+          "file": "assets/js/a84b53b3.26f8e75e.js",
+          "hash": "4aee501d3a335d9f",
+          "publicPath": "/aula-docusauros/assets/js/a84b53b3.26f8e75e.js"
+        }
+      ]
+    },
+    "7414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.2fc2035c.js",
+          "hash": "fff753aac611a743",
+          "publicPath": "/aula-docusauros/assets/js/393be207.2fc2035c.js"
+        }
+      ]
+    },
+    "7566": {
+      "js": [
+        {
+          "file": "assets/js/2508d432.1502781c.js",
+          "hash": "acf99bae9948ac74",
+          "publicPath": "/aula-docusauros/assets/js/2508d432.1502781c.js"
+        }
+      ]
+    },
+    "7725": {
+      "js": [
+        {
+          "file": "assets/js/04678395.bad399fc.js",
+          "hash": "feb84c4cd7831d99",
+          "publicPath": "/aula-docusauros/assets/js/04678395.bad399fc.js"
+        }
+      ]
+    },
+    "7918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.ae99009c.js",
+          "hash": "e5a5eab67f4ffc10",
+          "publicPath": "/aula-docusauros/assets/js/17896441.ae99009c.js"
+        }
+      ]
+    },
+    "8610": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.049b20aa.js",
+          "hash": "ff61b5414ec0dda5",
+          "publicPath": "/aula-docusauros/assets/js/6875c492.049b20aa.js"
+        }
+      ]
+    },
+    "8636": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.bb7e69fe.js",
+          "hash": "872948f598f92101",
+          "publicPath": "/aula-docusauros/assets/js/f4f34a3a.bb7e69fe.js"
+        }
+      ]
+    },
+    "8818": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.7ba34385.js",
+          "hash": "3ad63a4648879e6e",
+          "publicPath": "/aula-docusauros/assets/js/1e4232ab.7ba34385.js"
+        }
+      ]
+    },
+    "9003": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.801cb6bc.js",
+          "hash": "0e9d9be85b7ddbc1",
+          "publicPath": "/aula-docusauros/assets/js/925b3f96.801cb6bc.js"
+        }
+      ]
+    },
+    "9111": {
+      "js": [
+        {
+          "file": "assets/js/2bdaf00e.4967ce48.js",
+          "hash": "fb4c2895947a496a",
+          "publicPath": "/aula-docusauros/assets/js/2bdaf00e.4967ce48.js"
+        }
+      ]
+    },
+    "9161": {
+      "js": [
+        {
+          "file": "assets/js/3f87a217.a9836389.js",
+          "hash": "22e51cd2cdbec983",
+          "publicPath": "/aula-docusauros/assets/js/3f87a217.a9836389.js"
+        }
+      ]
+    },
+    "9642": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.de779bff.js",
+          "hash": "e796e90fdf431298",
+          "publicPath": "/aula-docusauros/assets/js/7661071f.de779bff.js"
+        }
+      ]
+    },
+    "9671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.625713ce.js",
+          "hash": "143f6573fe4513a1",
+          "publicPath": "/aula-docusauros/assets/js/0e384e19.625713ce.js"
+        }
+      ]
+    },
+    "9719": {
+      "js": [
+        {
+          "file": "assets/js/44b377cd.657c149a.js",
+          "hash": "587684a179804c8e",
+          "publicPath": "/aula-docusauros/assets/js/44b377cd.657c149a.js"
+        }
+      ]
+    },
+    "9817": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.90c5e5ca.js",
+          "hash": "f84ba6b7a3c032f6",
+          "publicPath": "/aula-docusauros/assets/js/14eb3368.90c5e5ca.js"
+        }
+      ]
+    }
+  }
+}

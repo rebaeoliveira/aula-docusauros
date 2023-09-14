@@ -1,0 +1,204 @@
+{
+  "/aula-docusauros/blog-e0d": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "62e9a2da"
+  },
+  "/aula-docusauros/blog/archive-578": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "archive": "525c357f"
+  },
+  "/aula-docusauros/blog/first-blog-post-84f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/aula-docusauros/blog/long-blog-post-6c1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/aula-docusauros/blog/mdx-blog-post-5eb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/aula-docusauros/blog/tags-b37": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "tags": "c199d279"
+  },
+  "/aula-docusauros/blog/tags/docusaurus-722": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "59c669c3",
+    "listMetadata": "3b453dee"
+  },
+  "/aula-docusauros/blog/tags/facebook-570": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "2508d432",
+    "listMetadata": "04678395"
+  },
+  "/aula-docusauros/blog/tags/hello-f30": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "327f2720",
+    "listMetadata": "e5ca368f"
+  },
+  "/aula-docusauros/blog/tags/hola-1a0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "165b5df8",
+    "listMetadata": "a84b53b3"
+  },
+  "/aula-docusauros/blog/welcome-b6e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3f87a217"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/aula-docusauros/markdown-page-a23": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "44b377cd"
+    },
+    "content": "393be207"
+  },
+  "/aula-docusauros/docs-3ed": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "5a6d9e71"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/aula-docusauros/docs/category/tutorial---basics-8c9": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "01d86874"
+  },
+  "/aula-docusauros/docs/category/tutorial---extras-d69": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "2bdaf00e"
+  },
+  "/aula-docusauros/docs/intro-0ae": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/aula-docusauros/docs/tutorial-basics/congratulations-79e": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/aula-docusauros/docs/tutorial-basics/create-a-blog-post-dad": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/aula-docusauros/docs/tutorial-basics/create-a-document-ab2": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/aula-docusauros/docs/tutorial-basics/create-a-page-bde": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/aula-docusauros/docs/tutorial-basics/deploy-your-site-a0f": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/aula-docusauros/docs/tutorial-basics/markdown-features-e37": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/aula-docusauros/docs/tutorial-extras/manage-docs-versions-e90": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/aula-docusauros/docs/tutorial-extras/translate-your-site-1d0": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/aula-docusauros/-8e7": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "44b377cd"
+    },
+    "config": "5e9f5e1a"
+  }
+}

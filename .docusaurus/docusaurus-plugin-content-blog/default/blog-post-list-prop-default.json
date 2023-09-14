@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/aula-docusauros/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/aula-docusauros/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/aula-docusauros/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/aula-docusauros/blog/first-blog-post"
+    }
+  ]
+}
